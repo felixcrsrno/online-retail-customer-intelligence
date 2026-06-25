@@ -60,9 +60,3 @@ Eksekusi dari skrip analisis ini menghasilkan beberapa berkas aset data pendukun
 
 ---
 
-## 🚀 Cara Menjalankan Projek
-
-1. **Clone Repositori:**
-   ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
-   cd nama-repo-kamu
